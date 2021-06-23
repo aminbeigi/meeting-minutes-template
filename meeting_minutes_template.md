@@ -11,13 +11,6 @@ People who attended:
 - Person B
 - Person C
 
-## Agenda Items
-
-Item | Description
----- | ----
-Agenda Item 1 | • <br>• <br>• <br>• <br>• 
-Agenda Item 2 | • <br>• <br>• <br>• <br>• 
-
 ## Action Items
 | Done? | Item | Responsible | Due Date |
 | ---- | ---- | ---- | ---- |
